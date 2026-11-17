@@ -1,0 +1,8 @@
+trigger:open
+undo_seq:0
+source_path:/home/cmpt201/CMPT-201-Coursework/midtermcram/sleep.c
+cursor:1,1
+lines:10
+changedtick:2
+reg_size:20
+source_relpath:midtermcram/sleep.c
